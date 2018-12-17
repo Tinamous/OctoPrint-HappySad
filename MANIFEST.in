@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_HappySad/templates *
+recursive-include octoprint_HappySad/translations *
+recursive-include octoprint_HappySad/static *
